@@ -27,7 +27,7 @@ twitter_username: sparkcognition
 github_username:  jcapellman
 
 # Build settings
-theme: just-the-docs
+remote-theme: just-the-docs
 color_scheme: dark
 plugins:
   - jekyll-feed

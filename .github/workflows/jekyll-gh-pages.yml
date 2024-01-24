@@ -1,5 +1,4 @@
 name: Build Jekyll site
-source: docs/
 on:
  push:
    branches: ["main"]

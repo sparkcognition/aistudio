@@ -7,7 +7,7 @@ twitter_username: sparkcognition
 github_username:  jcapellman
 
 # Build settings
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
 footer_content: "Copyright &copy; 2024 All Rights Reserved By SparkCognition"

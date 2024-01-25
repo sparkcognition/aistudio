@@ -8,6 +8,9 @@ parent: Application Overview
 
 The LLM action palette allows the user to build powerful pipelines that leverage LLMs.
 
+<img src="images/Screenshot_LLMActionPalette.png"/>
+
+
 ### Chain
 
 Chains connect different types of tools to extend their abilities. We currently support LLM chains, which gives the user the ability to connect tools such as vector databases and documents to an LLM to create more powerful generative AI experiences.
@@ -27,5 +30,3 @@ Tools empower LLMs to perform tasks outside their normal capabilities. We curren
 ### Vector Stores
 
 Vector Stores are a type of database that stores text by its semantic meaning. These are useful when combined with LLMs to give the model access to information that is outside the realm of its training data. Vector stores are integral to the "Chat with your PDF" usecase example. 
-
-<img src="images/Screenshot_LLMActionPalette.png"/>

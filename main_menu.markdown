@@ -5,11 +5,10 @@ title: Main Menu
 parent: Application Overview
 ---
 # Main Menu
+
+Use the menu to manage your pipelines files on your desktop or in the cloud. Navigate to the main menu by clicking **FILE** in the top left corner of the application.
+
 <img src="images/Screenshot_MainMenu.png"/>
-
-<br>
-
-The main menu allows you to manage your pipelines files on your desktop or in the cloud. Navigate to the main menu by clicking **FILE** in the top left corner of the application.
 
 The key functions of the main menu include:
 

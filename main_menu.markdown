@@ -5,3 +5,4 @@ title: Main Menu
 parent: Application Overview
 ---
 # Main Menu
+<img src="images/Screenshot_MainMenu.png"/>

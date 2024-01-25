@@ -6,7 +6,7 @@ parent: Application Overview
 ---
 # Project Files
 
-The project files section, found on the left pane of AI studio, allows the user to manage external files to be used in their NLP and LLM pipelines.
+The project files section, found on the left pane of AI studio, allows the user to manage external files to be used in AI studio pipelines.
 
 <img src="images/Screenshot_ProjectFiles.png"/>
 

@@ -5,8 +5,10 @@ layout: home
 # Introduction
 
 ## Welcome to AI Studio! 
+<img src="images/Screenshot_Introduction.png"/>
 
-The no-code AI development platform designed by SparkCognition Labs. 
+The no-code AI development platform designed by SparkCognition.
+
 
 AI Studio makes it easy to build, test, and deploy AI applications for any use case. With AI Studio’s drag-and-drop interface, users can quickly assemble NLP and LLM pipelines to create content, analyze data, and automate repetitive tasks.
 

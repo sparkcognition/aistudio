@@ -20,4 +20,4 @@ If connected to an AWS S3 bucket, press the purple circular arrow refresh button
 
 ### Files
 
-Files will be added to the file list through user upload or through creation in a pipeline. Once they've been added they will show up in the list. You download or delete files by clicking the three dots next to the name of the file. 
+Files will be added to the file list through user upload or through creation in a pipeline. You can download or delete files by clicking the three dots next to the name of the file. 

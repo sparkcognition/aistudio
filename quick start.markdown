@@ -26,7 +26,7 @@ Once you've started clean or imported your template you will be taken to the mai
 
 ### Project Files
 
-Upload files from your computer or from a storage bucket to be used in your pipelines. Visit the [Project Files](projectfiles.md) page to learn more.
+Upload files from your computer or from a storage bucket to be used in your pipelines. Visit the <a href="https://sparkcognition.github.io/aistudio-docs/projectfiles.html">Project Files</a> page to learn more.
 
 <br>
 

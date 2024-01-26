@@ -9,5 +9,7 @@ github_username:  jcapellman
 # Build settings
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
+logo: "/images/logo.png"
+
 
 footer_content: "Copyright &copy; 2024 All Rights Reserved By SparkCognition"

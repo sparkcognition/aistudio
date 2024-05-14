@@ -3,7 +3,12 @@ nav_order: 0
 ---
 
 # Quick Start
-Upon logging in you will be presented with a dropdown to select either a built-in template or starting a brand new project as shown below:
+Upon logging in, you'll be greeted with a helpful walkthrough modal, guiding you through the application's features. You can choose to follow the step-by-step explanation of the UI or skip it entirely.
+
+<img src="images/Screenshot_WalkthroughModal.png"/>
+
+Once you've finished the walkthrough or decided to skip it, you'll see a dropdown menu. From there, you can choose to either select a built-in template or start a new project from scratch as shown below:
+
 <img src="images/Screenshot_StartModal.png"/>
 
 We currently offer two standard templates:
@@ -21,6 +26,15 @@ If you prefer to start from scratch, select **Start New Project**
 
 
 Once you've started clean or imported your template you will be taken to the main page. The main page is split into 4 sections: Project Files on the left, Canvas in the middle, Action Palette to the right, and Event Logs at the bottom.
+
+<br>
+
+### Dark Mode
+
+<img src="images/Screenshot_DarkMode.png"/>
+
+
+You can seamlessly transition between Light and Dark themes by utilizing the Toggle Theme button positioned conveniently above the Action Palette. This feature offers you the flexibility to customize your visual experience according to your preference.
 
 <br>
 

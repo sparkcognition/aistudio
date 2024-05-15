@@ -5,7 +5,7 @@ nav_order: 0
 # Quick Start
 Upon logging in, you'll be greeted with a helpful walkthrough modal, guiding you through the application's features. You can choose to follow the step-by-step explanation of the UI or skip it entirely.
 
-<img src="images/Screenshot_WalkthroughModal.png"/>
+<img src="images/Screenshot_WalkThroughModal.png"/>
 
 Once you've finished the walkthrough or decided to skip it, you'll see a dropdown menu. From there, you can choose to either select a built-in template or start a new project from scratch as shown below:
 
